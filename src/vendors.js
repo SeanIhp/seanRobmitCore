@@ -1,0 +1,11 @@
+import Vue from 'vue';
+import VueRouter from 'vue-router';
+import axios from 'axios';
+import Vuex from 'vuex';
+import iView from 'iview';
+// import ElementUI from 'element-ui';
+// import echarts from 'echarts';
+// import Cookies from 'js-cookie';
+// import clipboard from 'clipboard';
+// import html2canvas from 'html2canvas';
+// import rasterizehtml from 'rasterizehtml';
